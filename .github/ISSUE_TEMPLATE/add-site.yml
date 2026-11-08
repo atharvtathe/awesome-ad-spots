@@ -1,0 +1,63 @@
+name: Suggest a site
+description: Suggest a website that sells ad spots on its own site
+title: "Add: <site name>"
+labels: ["new site"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! Check the [rules](../blob/main/CONTRIBUTING.md#what-qualifies) first. Directories, listing sites, and newsletter-only or podcast-only sponsorships are not accepted.
+  - type: input
+    id: site
+    attributes:
+      label: Site name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Advertise / sponsor page URL
+      placeholder: https://example.com/advertise
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Communities & Platforms
+        - Launch Communities
+        - Free Tools & Web Apps
+        - Open Source & Framework Docs
+        - Web Dev Blogs & Publications
+        - Language & Framework Blogs
+        - iOS & Swift Sites
+        - Not sure / new section
+    validations:
+      required: true
+  - type: input
+    id: audience
+    attributes:
+      label: Audience
+      placeholder: Front-end developers, indie makers...
+  - type: input
+    id: placements
+    attributes:
+      label: Website placements
+      placeholder: Sidebar banner, sponsored post...
+  - type: input
+    id: price
+    attributes:
+      label: Starting price
+      placeholder: $99/mo, or "On request"
+  - type: input
+    id: traffic
+    attributes:
+      label: Traffic (as claimed by the site)
+      placeholder: 50K monthly visitors, or "Not published"
+  - type: checkboxes
+    id: owner
+    attributes:
+      label: Disclosure
+      options:
+        - label: I run or work for this site

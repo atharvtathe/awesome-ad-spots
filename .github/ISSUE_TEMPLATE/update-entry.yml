@@ -1,0 +1,23 @@
+name: Report outdated info
+description: A price, placement, traffic number or link in the list is wrong or gone
+title: "Update: <site name>"
+labels: ["outdated"]
+body:
+  - type: input
+    id: site
+    attributes:
+      label: Site name
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What changed?
+      description: What the list says now, and what the site's ad page says.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: The page where you saw the current info.
