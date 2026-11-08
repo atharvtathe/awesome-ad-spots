@@ -2,15 +2,14 @@
 
 [![Check links](https://github.com/atharvtathe/awesome-ad-spots/actions/workflows/links.yml/badge.svg)](https://github.com/atharvtathe/awesome-ad-spots/actions/workflows/links.yml)
 
-> Where to advertise your SaaS, startup or side project: a curated list of **96 websites people actually use** (communities, tools, docs, design sites and tech blogs) that sell ad spots directly, with placements, prices and traffic.
+> Where to advertise your SaaS, startup or side project: a curated list of **86 websites people actually use** (communities, tools, docs, design sites and tech blogs) that sell ad spots directly, with placements, prices and traffic.
 
-**Scope:** websites with their own audience that sell on-site ad placements (banners, sidebars, sponsored posts, in-feed ads, logo placements). Not included: directories and listing sites, newsletter-only and podcast-only sponsorships.
+**Scope:** websites with their own audience that sell on-site ad placements (banners, sidebars, sponsored posts, in-feed ads, logo placements). Not included: directories, listing sites and launch platforms, newsletter-only and podcast-only sponsorships.
 
 ## Contents
 
 - [Budget Picks (under $100)](#budget-picks-under-100)
 - [Communities & Platforms](#communities--platforms) (14)
-- [Launch Communities](#launch-communities) (10)
 - [Free Tools & Web Apps](#free-tools--web-apps) (11)
 - [Design Sites](#design-sites) (3)
 - [Open Source & Framework Docs](#open-source--framework-docs) (21)
@@ -26,21 +25,16 @@
 
 The cheapest published website placements in this list, to test a channel before you spend more. Each one has a full entry below.
 
-| Site                                                           | What you get                               | Price          |
-| -------------------------------------------------------------- | ------------------------------------------ | -------------- |
-| [Smol Launch](https://smollaunch.com/advertise)                | Featured spot on homepage and launch pages | $19/wk         |
-| [Laravel Modules](https://laravelmodules.com/become-a-sponsor) | Logo and link on every page                | $20/mo         |
-| [DEV Community](https://pro.dev.to/pricing)                    | Self-serve native "Billboards"             | $25 CPM        |
-| [Programiz](https://www.programiz.com/advertise)               | Banners on coding tutorials                | From $0.60 CPM |
-| [InstantGradient](https://instantgradient.com/advertise)       | Exclusive sponsor card in the editor       | $29/mo         |
-| [Fazier](https://fazier.com/advertise)                         | Premium spot on homepage and launch pages  | $49 / 15 days  |
-| [DevPlaybook](https://devplaybook.cc/advertise)                | Logo and link on dev tool pages            | $49/mo         |
-| [PrompTessor](https://promptessor.com/sponsor)                 | Sponsor card above the prompt input        | $79/mo         |
-| [DevTools Daily](https://www.devtoolsdaily.com/advertise/)     | Sidebar spotlight on dev tool pages        | $79/wk         |
-| [DevHunt](https://devhunt.org/advertise)                       | Inline listing slot                        | $89/wk         |
-| [High Tech Attic](https://hightechattic.com/advertise)         | Sidebar ad on every page                   | $99/mo         |
-| [BetaList](https://betalist.com/advertise)                     | Homepage boost                             | $99/wk         |
-| [Awesome Indie](https://awesomeindie.com/pricing)              | Sidebar ad on every page                   | $99.99/mo      |
+| Site                                                           | What you get                         | Price          |
+| -------------------------------------------------------------- | ------------------------------------ | -------------- |
+| [Laravel Modules](https://laravelmodules.com/become-a-sponsor) | Logo and link on every page          | $20/mo         |
+| [DEV Community](https://pro.dev.to/pricing)                    | Self-serve native "Billboards"       | $25 CPM        |
+| [Programiz](https://www.programiz.com/advertise)               | Banners on coding tutorials          | From $0.60 CPM |
+| [InstantGradient](https://instantgradient.com/advertise)       | Exclusive sponsor card in the editor | $29/mo         |
+| [DevPlaybook](https://devplaybook.cc/advertise)                | Logo and link on dev tool pages      | $49/mo         |
+| [PrompTessor](https://promptessor.com/sponsor)                 | Sponsor card above the prompt input  | $79/mo         |
+| [DevTools Daily](https://www.devtoolsdaily.com/advertise/)     | Sidebar spotlight on dev tool pages  | $79/wk         |
+| [High Tech Attic](https://hightechattic.com/advertise)         | Sidebar ad on every page             | $99/mo         |
 
 ---
 
@@ -64,23 +58,6 @@ Places where people log in, post and come back daily.
 | [Write the Docs](https://writethedocs.org/sponsorship/website/)                                                                        | Technical writers (40%), developers (20%), support staff          | 240x180 sidebar ad with up to 100 characters of copy                                                                            | $250/mo                                                              | 30K visits/mo                                                   | Nov 2026 |
 | [High Tech Attic](https://hightechattic.com/advertise)                                                                                 | Indie SaaS builders, marketers, testers                           | Sidebar ad on every page (rotates across 20 slots), mobile bottom strip                                                         | $99/mo                                                               | Not published                                                   | Nov 2026 |
 | [Slashdot & SourceForge](https://slashdotmedia.com/advertising/)                                                                       | Tech pros, open-source developers, B2B software buyers            | Display and native ads, software listings, sponsored content (sold together by Slashdot Media)                                  | On request                                                           | 42M site viewers, 120M pageviews (across Slashdot Media sites)  | Nov 2026 |
-
-## Launch Communities
-
-Like Peerlist's Launchpad: communities where makers launch products and others upvote and comment.
-
-| Site                                                     | Audience                           | Website placements                                                                                                  | Starting price                          | Traffic (claimed)                                     | Verified |
-| -------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------- | -------- |
-| [Product Hunt](https://www.producthunt.com/sponsor)      | Startup teams, founders, engineers | Display ads among product listings, premium homepage billboard                                                      | On request                              | Not published                                         | Nov 2026 |
-| [DevHunt](https://devhunt.org/advertise)                 | Developers, dev tool builders      | Top banner, inline listing slots                                                                                    | Inline $89/wk; top banner $149/wk       | 612K+ unique visitors since launch, 24.6M impressions | Nov 2026 |
-| [BetaList](https://betalist.com/advertise)               | Early adopters, startup founders   | Boost (homepage), sponsor slot in Trending Startups and on every startup page, premium above-the-fold homepage spot | Boost $99/wk or $199/mo                 | 500K+ pageviews/mo                                    | Nov 2026 |
-| [Fazier](https://fazier.com/advertise)                   | Founders, marketers                | Premium spot on homepage, all launch pages and company pages (15 days)                                              | $49                                     | 1M+ visits (all-time), DR 83+                         | Nov 2026 |
-| [Uneed](https://www.uneed.best/advertise)                | Makers, founders                   | Sidebar banner on every page (1 month), premium spot at top of listing pages                                        | Premium spot from $197; sidebar $297/mo | 125K+ monthly visitors, DR 75                         | Nov 2026 |
-| [PeerPush](https://peerpush.com/submit?option=sponsored) | Makers, indie hackers              | Sponsor card shown across the site                                                                                  | See pricing page                        | 1.3M+ monthly visits, 400K+ sponsor impressions/mo    | Nov 2026 |
-| [Awesome Indie](https://awesomeindie.com/pricing)        | Indie makers                       | Sidebar ad (logo, one line, link) on every page for a month                                                         | $99.99/mo                               | Not published                                         | Nov 2026 |
-| [Firsto](https://firsto.co/sponsor)                      | Indie makers, developers           | Homepage hero (single spot), sidebar on every page                                                                  | Homepage hero $199/mo                   | Not published                                         | Nov 2026 |
-| [Microlaunch](https://microlaunch.net)                   | Micro-SaaS makers                  | Featured app spots, Premium, sponsorships (see navigation and footer)                                               | On request                              | ~2K daily visitors                                    | Nov 2026 |
-| [Smol Launch](https://smollaunch.com/advertise)          | Indie makers                       | Featured spot on the homepage plus promoted cards on launch, product and category pages (8 slots/wk)                | $19/wk or $61 for 4 weeks               | 1,800+ visits/wk                                      | Nov 2026 |
 
 ## Free Tools & Web Apps
 

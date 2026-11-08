@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks! Check the [rules](../blob/main/CONTRIBUTING.md#what-qualifies) first. Directories, listing sites, and newsletter-only or podcast-only sponsorships are not accepted.
+        Thanks! Check the [rules](../blob/main/CONTRIBUTING.md#what-qualifies) first. Directories, listing sites, launch platforms, and newsletter-only or podcast-only sponsorships are not accepted.
   - type: input
     id: site
     attributes:
@@ -26,7 +26,6 @@ body:
       label: Section
       options:
         - Communities & Platforms
-        - Launch Communities
         - Free Tools & Web Apps
         - Design Sites
         - Open Source & Framework Docs

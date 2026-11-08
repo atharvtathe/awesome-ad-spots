@@ -15,7 +15,7 @@ Don't want to open a pull request? [Open an issue](../../issues/new/choose) and 
 
 Not accepted:
 
-- Directories, listing sites and "submit your startup" sites whose main product is the listing.
+- Directories, listing sites and launch platforms (Product Hunt-style "submit your startup" sites).
 - Newsletter-only or podcast-only sponsorships.
 - Ad networks (these go under **Related**, not in the tables).
 - Affiliate or tracking links. Link straight to the site's ad page.
