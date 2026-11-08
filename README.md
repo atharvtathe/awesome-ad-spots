@@ -216,6 +216,10 @@ Most sell one exclusive sponsor per week: a sidebar or text ad on every page, pl
 - [SponsorApp](https://www.producthunt.com/products/sponsorapp) - Adds a "Sponsor" button so visitors can design and buy ad spots directly.
 - [CheerAd](https://cheerad.com) - Visitors buy "Spotlight Spots", paid straight to your Stripe, with no tracking.
 
+**Need a way to get paid first?**
+
+- [Awesome Payment Gateways](https://github.com/atharvtathe/awesome-payment-gateways) - Merchant of record platforms, payment gateways and local options, with fees and the countries you can sell from.
+
 ---
 
 ## Contributing
