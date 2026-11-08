@@ -7,5 +7,5 @@
 - [ ] Link goes to the site's advertise / sponsor page.
 - [ ] Every number comes from the site's own page.
 - [ ] **Verified** set to the month I checked.
-- [ ] Section count and total updated (new or removed sites only).
+- [ ] Section count in Contents updated (new or removed sites only).
 - [ ] I run or work for this site. <!-- tick only if true -->

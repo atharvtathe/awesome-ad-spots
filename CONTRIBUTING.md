@@ -54,6 +54,6 @@ Change the cells that are out of date and set **Verified** to the current month.
 - [ ] Link goes to the site's advertise / sponsor page.
 - [ ] Every number comes from the site's own page.
 - [ ] **Verified** set to the month you checked.
-- [ ] Section count and total updated (new or removed sites only).
+- [ ] Section count in Contents updated (new or removed sites only).
 
 By contributing, you agree to release your contribution under the [CC0 license](LICENSE) and to follow the [Code of Conduct](code-of-conduct.md).
