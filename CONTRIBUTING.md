@@ -41,7 +41,7 @@ Style:
 - Use the currency the site uses (`$`, `€`).
 - Don't add your own opinions or estimates. Only what the site publishes.
 - If a price under $100 is the cheapest option, also add the site to **Budget Picks**.
-- Update the count next to the section in **Contents**, and the total in the description at the top.
+- Update the count next to the section in **Contents**.
 - Tables don't need aligned columns. Unaligned rows render fine on GitHub.
 
 ## Updating an entry

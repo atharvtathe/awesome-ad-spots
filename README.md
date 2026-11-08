@@ -2,7 +2,7 @@
 
 [![Check links](https://github.com/atharvtathe/awesome-ad-spots/actions/workflows/links.yml/badge.svg)](https://github.com/atharvtathe/awesome-ad-spots/actions/workflows/links.yml)
 
-> Where to advertise your SaaS, startup or side project: a curated list of **103 websites people actually use** (communities, tools, docs, design, security and tech blogs) that sell ad spots directly, with placements, prices and traffic.
+> Where to advertise your SaaS, startup or side project: a curated list of **websites people actually use** (communities, tools, docs, design, security and tech blogs) that sell ad spots directly, with placements, prices and traffic.
 
 **Scope:** websites with their own audience that sell on-site ad placements (banners, sidebars, sponsored posts, in-feed ads, logo placements). Not included: directories, listing sites and launch platforms, newsletter-only and podcast-only sponsorships.
 
