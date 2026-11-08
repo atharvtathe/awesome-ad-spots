@@ -2,20 +2,22 @@
 
 [![Check links](https://github.com/atharvtathe/awesome-ad-spots/actions/workflows/links.yml/badge.svg)](https://github.com/atharvtathe/awesome-ad-spots/actions/workflows/links.yml)
 
-> Where to advertise your SaaS, startup or side project: a curated list of **75 websites people actually use** (communities, tools, docs and dev blogs) that sell ad spots directly, with placements, prices and traffic.
+> Where to advertise your SaaS, startup or side project: a curated list of **96 websites people actually use** (communities, tools, docs, design sites and tech blogs) that sell ad spots directly, with placements, prices and traffic.
 
 **Scope:** websites with their own audience that sell on-site ad placements (banners, sidebars, sponsored posts, in-feed ads, logo placements). Not included: directories and listing sites, newsletter-only and podcast-only sponsorships.
 
 ## Contents
 
 - [Budget Picks (under $100)](#budget-picks-under-100)
-- [Communities & Platforms](#communities--platforms) (13)
-- [Launch Communities](#launch-communities) (9)
-- [Free Tools & Web Apps](#free-tools--web-apps) (8)
-- [Open Source & Framework Docs](#open-source--framework-docs) (19)
-- [Web Dev Blogs & Publications](#web-dev-blogs--publications) (12)
+- [Communities & Platforms](#communities--platforms) (14)
+- [Launch Communities](#launch-communities) (10)
+- [Free Tools & Web Apps](#free-tools--web-apps) (11)
+- [Design Sites](#design-sites) (3)
+- [Open Source & Framework Docs](#open-source--framework-docs) (21)
+- [Tech Blogs & Publications](#tech-blogs--publications) (17)
 - [Language & Framework Blogs](#language--framework-blogs) (8)
 - [iOS & Swift Sites](#ios--swift-sites) (6)
+- [Apple & Mac Blogs](#apple--mac-blogs) (6)
 - [Related](#related)
 
 **How to read the tables:** _Starting price_ is the cheapest website placement we found, and _On request_ means the site does not publish one. _Traffic_ is the site's own claim, so ask for analytics before you buy. _Verified_ is the month the entry was last checked against the site's own ad page.
@@ -24,18 +26,21 @@
 
 The cheapest published website placements in this list, to test a channel before you spend more. Each one has a full entry below.
 
-| Site                                                            | What you get                                     | Price          |
-| --------------------------------------------------------------- | ------------------------------------------------ | -------------- |
-| [Laravel Modules](https://laravelmodules.com/become-a-sponsor)  | Logo and link on every page                      | $20/mo         |
-| [DEV Community](https://pro.dev.to/pricing)                     | Self-serve native "Billboards"                   | $25 CPM        |
-| [InstantGradient](https://instantgradient.com/advertise)        | Exclusive sponsor card in the editor             | $29/mo         |
-| [Fazier](https://fazier.com/advertise)                          | Premium spot on homepage and launch pages        | $49 / 15 days  |
-| [DevPlaybook](https://devplaybook.cc/advertise)                 | Logo and link on dev tool pages                  | $49/mo         |
-| [PrompTessor](https://promptessor.com/sponsor)                  | Sponsor card above the prompt input              | $79/mo         |
-| [DevHunt](https://devhunt.org/advertise)                        | Inline listing slot                              | $89/wk         |
-| [High Tech Attic](https://hightechattic.com/advertise)          | Sidebar ad on every page                         | $99/mo         |
-| [BetaList](https://betalist.com/advertise)                      | Homepage boost                                   | $99/wk         |
-| [Awesome Indie](https://awesomeindie.com/pricing)               | Sidebar ad on every page                         | $99.99/mo      |
+| Site                                                           | What you get                               | Price          |
+| -------------------------------------------------------------- | ------------------------------------------ | -------------- |
+| [Smol Launch](https://smollaunch.com/advertise)                | Featured spot on homepage and launch pages | $19/wk         |
+| [Laravel Modules](https://laravelmodules.com/become-a-sponsor) | Logo and link on every page                | $20/mo         |
+| [DEV Community](https://pro.dev.to/pricing)                    | Self-serve native "Billboards"             | $25 CPM        |
+| [Programiz](https://www.programiz.com/advertise)               | Banners on coding tutorials                | From $0.60 CPM |
+| [InstantGradient](https://instantgradient.com/advertise)       | Exclusive sponsor card in the editor       | $29/mo         |
+| [Fazier](https://fazier.com/advertise)                         | Premium spot on homepage and launch pages  | $49 / 15 days  |
+| [DevPlaybook](https://devplaybook.cc/advertise)                | Logo and link on dev tool pages            | $49/mo         |
+| [PrompTessor](https://promptessor.com/sponsor)                 | Sponsor card above the prompt input        | $79/mo         |
+| [DevTools Daily](https://www.devtoolsdaily.com/advertise/)     | Sidebar spotlight on dev tool pages        | $79/wk         |
+| [DevHunt](https://devhunt.org/advertise)                       | Inline listing slot                        | $89/wk         |
+| [High Tech Attic](https://hightechattic.com/advertise)         | Sidebar ad on every page                   | $99/mo         |
+| [BetaList](https://betalist.com/advertise)                     | Homepage boost                             | $99/wk         |
+| [Awesome Indie](https://awesomeindie.com/pricing)              | Sidebar ad on every page                   | $99.99/mo      |
 
 ---
 
@@ -58,6 +63,7 @@ Places where people log in, post and come back daily.
 | [Remote OK](https://remoteok.featurebase.app/help/articles/7094639-how-do-i-sponsor-remote-ok)                                         | Remote job seekers                                                | Banner / site sponsorship                                                                                                       | On request (message @levelsio on X)                                  | 1M+ monthly visitors                                            | Nov 2026 |
 | [Write the Docs](https://writethedocs.org/sponsorship/website/)                                                                        | Technical writers (40%), developers (20%), support staff          | 240x180 sidebar ad with up to 100 characters of copy                                                                            | $250/mo                                                              | 30K visits/mo                                                   | Nov 2026 |
 | [High Tech Attic](https://hightechattic.com/advertise)                                                                                 | Indie SaaS builders, marketers, testers                           | Sidebar ad on every page (rotates across 20 slots), mobile bottom strip                                                         | $99/mo                                                               | Not published                                                   | Nov 2026 |
+| [Slashdot & SourceForge](https://slashdotmedia.com/advertising/)                                                                       | Tech pros, open-source developers, B2B software buyers            | Display and native ads, software listings, sponsored content (sold together by Slashdot Media)                                  | On request                                                           | 42M site viewers, 120M pageviews (across Slashdot Media sites)  | Nov 2026 |
 
 ## Launch Communities
 
@@ -74,21 +80,35 @@ Like Peerlist's Launchpad: communities where makers launch products and others u
 | [Awesome Indie](https://awesomeindie.com/pricing)        | Indie makers                       | Sidebar ad (logo, one line, link) on every page for a month                                                         | $99.99/mo                               | Not published                                         | Nov 2026 |
 | [Firsto](https://firsto.co/sponsor)                      | Indie makers, developers           | Homepage hero (single spot), sidebar on every page                                                                  | Homepage hero $199/mo                   | Not published                                         | Nov 2026 |
 | [Microlaunch](https://microlaunch.net)                   | Micro-SaaS makers                  | Featured app spots, Premium, sponsorships (see navigation and footer)                                               | On request                              | ~2K daily visitors                                    | Nov 2026 |
+| [Smol Launch](https://smollaunch.com/advertise)          | Indie makers                       | Featured spot on the homepage plus promoted cards on launch, product and category pages (8 slots/wk)                | $19/wk or $61 for 4 weeks               | 1,800+ visits/wk                                      | Nov 2026 |
 
 ## Free Tools & Web Apps
 
 People open these to get a job done, often every day, so your ad sits right next to the work.
 
-| Site                                                                                | Audience                                    | Website placements                                                                                      | Starting price                     | Traffic (claimed)                          | Verified |
-| ----------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------ | -------- |
-| [regex101](https://docs.regex101.com/enterprise/sponsors)                           | Developers testing regular expressions      | Logo + tagline in a sponsor rotation on the site (light and dark mode), plus the GitHub README          | Fixed monthly fee, on request      | ~70K unique visitors/day, ~3M pageviews/mo | Nov 2026 |
-| [GreatFrontEnd](https://www.greatfrontend.com/advertise-with-us)                    | Front-end engineers                         | Ad units on 500+ question and guide pages, spotlight ad pinned in the app sidebar                       | See page                           | 600K+ front-end engineers reached          | Nov 2026 |
-| [DevPlaybook](https://devplaybook.cc/advertise)                                     | Full-stack devs, indie hackers, AI builders | Logo + link on tool pages (e.g. JSON Formatter, JWT Decoder), homepage feature, sponsored blog callouts | Tool page $49/mo; homepage $149/mo | 10K+ monthly visitors                      | Nov 2026 |
-| [Pika](https://pika.style/partner)                                                  | Designers, developers, creators, founders   | Partner ad slots                                                                                        | See page                           | "Thousands" of users                       | Nov 2026 |
-| [InstantGradient](https://instantgradient.com/advertise)                            | Designers, front-end devs, indie makers     | Exclusive sponsor card in the editor, color pages, blog and homepage                                    | $29/mo or $69/quarter              | 800+ visitors/mo                           | Nov 2026 |
-| [Converting Colors](https://kkolma.gumroad.com/l/convertingcolorssponsorsubpageads) | Designers and developers converting colors  | 300x250 sidebar ad on all subpages (2 slots)                                                            | $250/mo                            | Not published                              | Nov 2026 |
-| [PrompTessor](https://promptessor.com/sponsor)                                      | People using free AI prompt tools           | Featured sponsor card above the prompt input, sponsored AI tool card                                    | $79/mo; featured $199/mo           | Not published                              | Nov 2026 |
-| [IdeaProof](https://ideaproof.io/advertise)                                         | Founders validating startup ideas           | Sponsored tool placement                                                                                | On request                         | 10K+ founders/mo                           | Nov 2026 |
+| Site                                                                                | Audience                                                         | Website placements                                                                                      | Starting price                                          | Traffic (claimed)                          | Verified |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------ | -------- |
+| [regex101](https://docs.regex101.com/enterprise/sponsors)                           | Developers testing regular expressions                           | Logo + tagline in a sponsor rotation on the site (light and dark mode), plus the GitHub README          | Fixed monthly fee, on request                           | ~70K unique visitors/day, ~3M pageviews/mo | Nov 2026 |
+| [GreatFrontEnd](https://www.greatfrontend.com/advertise-with-us)                    | Front-end engineers                                              | Ad units on 500+ question and guide pages, spotlight ad pinned in the app sidebar                       | See page                                                | 600K+ front-end engineers reached          | Nov 2026 |
+| [DevPlaybook](https://devplaybook.cc/advertise)                                     | Full-stack devs, indie hackers, AI builders                      | Logo + link on tool pages (e.g. JSON Formatter, JWT Decoder), homepage feature, sponsored blog callouts | Tool page $49/mo; homepage $149/mo                      | 10K+ monthly visitors                      | Nov 2026 |
+| [Pika](https://pika.style/partner)                                                  | Designers, developers, creators, founders                        | Partner ad slots                                                                                        | See page                                                | "Thousands" of users                       | Nov 2026 |
+| [InstantGradient](https://instantgradient.com/advertise)                            | Designers, front-end devs, indie makers                          | Exclusive sponsor card in the editor, color pages, blog and homepage                                    | $29/mo or $69/quarter                                   | 800+ visitors/mo                           | Nov 2026 |
+| [Converting Colors](https://kkolma.gumroad.com/l/convertingcolorssponsorsubpageads) | Designers and developers converting colors                       | 300x250 sidebar ad on all subpages (2 slots)                                                            | $250/mo                                                 | Not published                              | Nov 2026 |
+| [PrompTessor](https://promptessor.com/sponsor)                                      | People using free AI prompt tools                                | Featured sponsor card above the prompt input, sponsored AI tool card                                    | $79/mo; featured $199/mo                                | Not published                              | Nov 2026 |
+| [IdeaProof](https://ideaproof.io/advertise)                                         | Founders validating startup ideas                                | Sponsored tool placement                                                                                | On request                                              | 10K+ founders/mo                           | Nov 2026 |
+| [DevTools Daily](https://www.devtoolsdaily.com/advertise/)                          | Developers using JSON, SQL, regex and DevOps tools               | Sidebar spotlight on tool, cheatsheet and blog pages (one advertiser at a time), sponsored blog post    | Sidebar $79/wk or $249 for 4 weeks; sponsored post $149 | ~25K visitors/mo, ~70K pageviews/mo        | Nov 2026 |
+| [CodeFronts](https://codefronts.com/advertise/)                                     | Front-end developers copying CSS and Tailwind UI code            | "Sidebar Featured Tool" card on collection, demo and tool pages (one sponsor at a time)                 | $250/mo ($199 first month)                              | 28.6K visitors/mo, 120K pageviews/mo       | Nov 2026 |
+| [PocketWebTools](https://pocketweb.tools/sponsor)                                   | People using free AI voice, video, transcription and image tools | Header sponsor card on one tool group (one sponsor per group)                                           | Image tools $100/mo; voice tools $500/mo                | 14.4K visits/mo                            | Nov 2026 |
+
+## Design Sites
+
+Where designers go for inspiration, news and feedback.
+
+| Site                                                   | Audience                                      | Website placements                                                                                   | Starting price | Traffic (claimed)                 | Verified |
+| ------------------------------------------------------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------- | --------------------------------- | -------- |
+| [Dribbble](https://dribbble.com/advertise)             | Designers and creatives                       | In-feed display ads, homepage and sign-in takeovers, sponsored blog posts, sponsored design contests | On request     | 100M pageviews/mo, 20M users      | Nov 2026 |
+| [Designer News](https://www.designernews.co/advertise) | Product designers, design engineers, founders | Sidebar card on every page, sponsored row in the daily feed                                          | On request     | Not published                     | Nov 2026 |
+| [Sidebar](https://sidebar.io/sponsor)                  | Web and UX designers                          | Sponsored link on the homepage for one day (bundled with newsletter and social posts)                | $950 package   | ~1.5K uniques/day on the homepage | Nov 2026 |
 
 ## Open Source & Framework Docs
 
@@ -115,23 +135,32 @@ Docs sites developers keep open all day. Most sell logo placements through spons
 | [hotpath](https://hotpath.rs/sponsorship)                                 | Rust developers                        | Docs sponsorship                                                                                 | From $500/mo                                   | ~5K monthly docs visitors            | Nov 2026                        |
 | [Laravel Modules](https://laravelmodules.com/become-a-sponsor)            | Laravel developers                     | Logo and link on every page                                                                      | $20/mo                                         | "Thousands" of developers/mo         | Nov 2026                        |
 | [MDN Web Docs](https://discover.buysellads.com/mozilla-developer-network) | Web developers                         | Site placements (via BuySellAds)                                                                 | On request                                     | 17.5M unique monthly users           | Nov 2026                        |
+| [Zod](https://github.com/sponsors/colinhacks)                             | TypeScript developers                  | Logo in the sponsors section on zod.dev (sized by tier) plus GitHub README                       | Bronze $249/mo; Silver $499/mo; Gold $999/mo   | ~600K monthly impressions            | Nov 2026                        |
+| [Biome](https://opencollective.com/biome/contribute)                      | JavaScript and TypeScript developers   | Gold: logo on the biomejs.dev homepage; Platinum: homepage and every other page                  | Gold $1,000/mo; Platinum $5,000/mo             | Not published                        | Nov 2026                        |
 
-## Web Dev Blogs & Publications
+## Tech Blogs & Publications
 
-| Site                                                             | Audience                                        | Website placements                                                                           | Starting price                                                   | Traffic (claimed)                         | Verified                         |
-| ---------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------- | -------------------------------- |
-| [Smashing Magazine](https://www.smashingmagazine.com/advertise/) | Web designers, front-end engineers, UX          | Monthly display ads (homepage, sidebar, articles), sponsored articles                        | Sponsored article €5,000; display ads on request                 | ~705K unique visitors, ~800K pageviews/mo | Nov 2026                         |
-| [HackerNoon](https://business.hackernoon.com/)                   | Technologists, developers                       | Site-wide billboard banner, ads by tag on niche pages                                        | Targeted ads from $5,000/wk                                      | Not published on page                     | Nov 2026                         |
-| [CSS-Tricks](https://css-tricks.com/advertising/)                | Front-end developers                            | Footer card, leaderboard, sidebar banners, header banner, article title bar, sponsored posts | Footer card $500/mo; leaderboard $750/mo; sidebar from $2,500/mo | Not published                             | Nov 2026                         |
-| [Codrops](https://discover.buysellads.com/codrops)               | Front-end developers, creative coders           | Sponsored post (custom article or demo)                                                      | $2,150 per post                                                  | Not published                             | Nov 2026                         |
-| [DeveloperInsider](https://developerinsider.co/sponsorship)      | Developers                                      | Top and bottom ads, in-article banner, sponsored product spot                                | Sponsored product $125–$250/wk or $500–$1,000/mo                 | ~1M pageviews/mo                          | Nov 2026                         |
-| [CalliCoder](https://www.callicoder.com/advertise)               | Developers learning languages and system design | 300x250 sidebar, after-article banner, homepage and category banners                         | Sidebar $350/mo; top sidebar or after-article $500/mo            | Not published                             | Nov 2026                         |
-| [Samantha Ming](https://samanthaming.com/sponsor)                | Front-end developers                            | Bottom banner, top side banner, top section heading                                          | $300/mo; $500/mo; $1,000/mo                                      | 200K+ pageviews/mo, 100K+ uniques         | Nov 2026 (page footer says 2022) |
-| [CSS Tip](https://css-tip.com/advertise/)                        | Web developers                                  | Custom-built ad at top, side or bottom of pages                                              | Bottom $100/mo; side $150/mo; top $250/mo                        | Up to 30K pageviews/mo, 12K MAU           | Nov 2026                         |
-| [Style Stage](https://stylestage.moderncss.dev/support/)         | CSS developers and designers                    | Banner below the footer on the home page                                                     | $100/wk                                                          | ~15K uniques/mo                           | Nov 2026                         |
-| [Bitdoze](https://www.bitdoze.com/advertise)                     | Developers, tech enthusiasts                    | Sidebar on every article, top-of-page feature, sponsored article                             | Sidebar $200/mo                                                  | 27K+ unique visitors                      | Nov 2026                         |
-| [Linuxbuz](https://linuxbuz.com/advertise)                       | Linux and DevOps users                          | Logo after every article, sidebar banners, banner above featured image, sponsored posts      | Logo $300/mo; sidebar $500/mo; top banner $700/mo                | Not published                             | Nov 2026                         |
-| [Best Writing](https://bestwriting.com/advertise)                | Writers, creators, marketers                    | Header stripe, homepage banner, sidebar banner, in-content banner                            | Content banner $100/wk; homepage $150/wk; header $500/wk         | Not published                             | Nov 2026                         |
+Tutorials, news and blogs for developers and tech readers.
+
+| Site                                                              | Audience                                        | Website placements                                                                           | Starting price                                                   | Traffic (claimed)                         | Verified                         |
+| ----------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------- | -------------------------------- |
+| [Smashing Magazine](https://www.smashingmagazine.com/advertise/)  | Web designers, front-end engineers, UX          | Monthly display ads (homepage, sidebar, articles), sponsored articles                        | Sponsored article €5,000; display ads on request                 | ~705K unique visitors, ~800K pageviews/mo | Nov 2026                         |
+| [HackerNoon](https://business.hackernoon.com/)                    | Technologists, developers                       | Site-wide billboard banner, ads by tag on niche pages                                        | Targeted ads from $5,000/wk                                      | Not published on page                     | Nov 2026                         |
+| [CSS-Tricks](https://css-tricks.com/advertising/)                 | Front-end developers                            | Footer card, leaderboard, sidebar banners, header banner, article title bar, sponsored posts | Footer card $500/mo; leaderboard $750/mo; sidebar from $2,500/mo | Not published                             | Nov 2026                         |
+| [Codrops](https://discover.buysellads.com/codrops)                | Front-end developers, creative coders           | Sponsored post (custom article or demo)                                                      | $2,150 per post                                                  | Not published                             | Nov 2026                         |
+| [DeveloperInsider](https://developerinsider.co/sponsorship)       | Developers                                      | Top and bottom ads, in-article banner, sponsored product spot                                | Sponsored product $125–$250/wk or $500–$1,000/mo                 | ~1M pageviews/mo                          | Nov 2026                         |
+| [CalliCoder](https://www.callicoder.com/advertise)                | Developers learning languages and system design | 300x250 sidebar, after-article banner, homepage and category banners                         | Sidebar $350/mo; top sidebar or after-article $500/mo            | Not published                             | Nov 2026                         |
+| [Samantha Ming](https://samanthaming.com/sponsor)                 | Front-end developers                            | Bottom banner, top side banner, top section heading                                          | $300/mo; $500/mo; $1,000/mo                                      | 200K+ pageviews/mo, 100K+ uniques         | Nov 2026 (page footer says 2022) |
+| [CSS Tip](https://css-tip.com/advertise/)                         | Web developers                                  | Custom-built ad at top, side or bottom of pages                                              | Bottom $100/mo; side $150/mo; top $250/mo                        | Up to 30K pageviews/mo, 12K MAU           | Nov 2026                         |
+| [Style Stage](https://stylestage.moderncss.dev/support/)          | CSS developers and designers                    | Banner below the footer on the home page                                                     | $100/wk                                                          | ~15K uniques/mo                           | Nov 2026                         |
+| [Bitdoze](https://www.bitdoze.com/advertise)                      | Developers, tech enthusiasts                    | Sidebar on every article, top-of-page feature, sponsored article                             | Sidebar $200/mo                                                  | 27K+ unique visitors                      | Nov 2026                         |
+| [Linuxbuz](https://linuxbuz.com/advertise)                        | Linux and DevOps users                          | Logo after every article, sidebar banners, banner above featured image, sponsored posts      | Logo $300/mo; sidebar $500/mo; top banner $700/mo                | Not published                             | Nov 2026                         |
+| [Best Writing](https://bestwriting.com/advertise)                 | Writers, creators, marketers                    | Header stripe, homepage banner, sidebar banner, in-content banner                            | Content banner $100/wk; homepage $150/wk; header $500/wk         | Not published                             | Nov 2026                         |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/advertise-with-us/) | CS students and tech professionals              | Display banners on desktop and mobile (320x50 up to 300x600)                                 | On request                                                       | 35M+ registered users                     | Nov 2026                         |
+| [Programiz](https://www.programiz.com/advertise)                  | Beginners learning to code                      | Top banner, sidebar rectangle, bottom banner                                                 | CPM $0.60–$1.40                                                  | 2.5M uniques/mo, 9.5M pageviews/mo        | Nov 2026                         |
+| [Hongkiat](https://www.hongkiat.com/blog/advertise/)              | Designers, developers, tech enthusiasts         | Advertising on the site (contact form)                                                       | On request                                                       | 8.5M+ visitors/mo                         | Nov 2026                         |
+| [KDnuggets](https://www.kdnuggets.com/media-kit)                  | Data scientists, ML and AI practitioners        | Ad formats across KDnuggets and Machine Learning Mastery (media kit behind a form)           | On request                                                       | In media kit                              | Nov 2026                         |
+| [OMG! Ubuntu](https://www.omgubuntu.co.uk/advertise)              | Linux and Ubuntu users                          | Text and rich-media placements on the site (via BuySellAds)                                  | On request                                                       | 1.5M+ unique readers                      | Nov 2026                         |
 
 ## Language & Framework Blogs
 
@@ -156,6 +185,19 @@ Docs sites developers keep open all day. Most sell logo placements through spons
 | [Sarunw](https://sarunw.com/sponsor/)                          | iOS developers                   | Ad on the homepage and every blog post for a week                           | $300/wk                      | 140K+ developers/mo, ~280K pageviews                    | Nov 2026                          |
 | [Create with Swift](https://createwithswift.com/sponsor)       | Swift learners and developers    | Weekly ad on content pages with call-to-action link                         | Flat weekly rate, on request | Not published                                           | Nov 2026                          |
 | [AppCoda](https://www.appcoda.com/advertise/)                  | iOS developers                   | Sidebar ads, weekly exclusive sponsored post                                | On request                   | Not published                                           | Nov 2026 (page last updated 2024) |
+
+## Apple & Mac Blogs
+
+Most sell one exclusive sponsor per week: a sidebar or text ad on every page, plus posts in the site and RSS feed.
+
+| Site                                                          | Audience                                 | Website placements                                                                           | Starting price              | Traffic (claimed)                            | Verified |
+| ------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------- | -------------------------------------------- | -------- |
+| [Daring Fireball](https://daringfireball.net/feeds/sponsors/) | Apple enthusiasts, developers, designers | Sidebar ad on every page for the week, RSS sponsor post, closing thank-you post              | $12,500/wk (2027 rate)      | ~150K weekday uniques, ~2.5M uniques/mo      | Nov 2026 |
+| [9to5Mac](https://9to5mac.com/advertise/)                     | Apple fans, IT pros, tech enthusiasts    | Partner posts, display ads, custom banner ads                                                | Custom banners from $10,000 | Up to 75M hits/mo (all channels)             | Nov 2026 |
+| [MacStories](https://www.macstories.net/advertise/)           | Tech-savvy Apple users and developers    | Weekly homepage sponsor (post plus top banner), Shortcuts Archive banner, event sponsorships | On request                  | Not published                                | Nov 2026 |
+| [Six Colors](https://sixcolors.com/sponsorship/)              | Apple and tech readers                   | One-line text ad on every page for a week, sponsored feed post, Friday thank-you post        | $750/wk                     | ~20K RSS readers; site traffic not published | Nov 2026 |
+| [512 Pixels](https://512pixels.net/sponsorship/)              | Apple and Mac enthusiasts                | Sidebar blurb all week, Monday sponsor post, thank-you post                                  | $400/wk                     | 70K–100K pageviews/mo, ~20K RSS subscribers  | Nov 2026 |
+| [Pixel Envy](https://pxlnv.com/sponsorship/)                  | Apple and tech readers                   | Two sponsored linked posts per week (Monday and Friday)                                      | $200/wk                     | Not published                                | Nov 2026 |
 
 ---
 

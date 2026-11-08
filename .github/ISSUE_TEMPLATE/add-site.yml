@@ -28,10 +28,12 @@ body:
         - Communities & Platforms
         - Launch Communities
         - Free Tools & Web Apps
+        - Design Sites
         - Open Source & Framework Docs
-        - Web Dev Blogs & Publications
+        - Tech Blogs & Publications
         - Language & Framework Blogs
         - iOS & Swift Sites
+        - Apple & Mac Blogs
         - Not sure / new section
     validations:
       required: true
